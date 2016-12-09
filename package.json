@@ -1,8 +1,25 @@
 {
   "name": "js-primitives",
   "scripts": {
+    "ex1": "node js/ex_1.js",
+    "ex2": "node js/ex_2.js",
+    "ex3": "node js/ex_3.js",
+    "ex4": "node js/ex_4.js",
+    "ex5": "node js/ex_5.js",
+    "ex6": "node js/ex_6.js",
+    "ex7": "node js/ex_7.js",
+    "ex8": "node js/ex_8.js",
+    "ex9": "node js/ex_9.js",
+    "ex10": "node js/ex_10.js",
+
     "lint:js": "node_modules/eslint/bin/eslint.js js --fix; exit 0"
   },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndrewThian/js-primitives.git"
+  },
+  
   "author": "",
   "license": "MIT",
   "devDependencies": {
